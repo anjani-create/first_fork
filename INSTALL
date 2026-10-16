@@ -12,3 +12,4 @@ Basic Installation
 Just type `make', and everything should work as long as you have Java
 and GNU make installed in your PATH.  On some BSD systems, you may have
 to type `gmake' instead.
+just type
